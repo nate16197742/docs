@@ -1,4 +1,4 @@
----
+---github:main
 title: Adding a file to a repository
 intro: 'You can upload and commit an existing file to a repository on {% data variables.product.product_name %} or by using the command line.'
 redirect_from:
